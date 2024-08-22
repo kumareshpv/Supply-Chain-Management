@@ -4,6 +4,29 @@
 
 This project involves the development of a comprehensive **Supply Chain Management System** tailored for an e-commerce platform. The system is designed to efficiently manage customer orders, inventory, suppliers, shipping, and notifications. The database supports a large-scale operation, accommodating up to 50,000 customers, and includes robust mechanisms for ensuring the integrity and efficiency of order processing.
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+   - [Extensive E-commerce Database Design](#extensive-e-commerce-database-design)
+   - [SQL Triggers and Stored Procedures](#sql-triggers-and-stored-procedures)
+   - [Scalability](#scalability)
+3. [Database Schema Overview](#database-schema-overview)
+   - [Tables](#tables)
+   - [Sequences](#sequences)
+   - [Triggers](#triggers)
+   - [Stored Procedures](#stored-procedures)
+4. [Installation](#installation)
+   - [Prerequisites](#prerequisites)
+   - [Setup Instructions](#setup-instructions)
+   - [Populating the Database](#populating-the-database)
+   - [Running the Procedures and Triggers](#running-the-procedures-and-triggers)
+5. [Usage](#usage)
+   - [Sample Queries](#sample-queries)
+   - [Database Maintenance](#database-maintenance)
+6. [Conclusion](#conclusion)
+7. [License](#license)
+8. [Contact](#contact)
+
 ## Features
 
 ### 1. **Extensive E-commerce Database Design**
